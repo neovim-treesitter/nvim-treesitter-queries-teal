@@ -1,8 +1,7 @@
 {
-  "parser_version": "05d276e737055e6f77a21335b7573c9d3c091e2f",
-  "location": null,
   "generate": true,
-  "lang": "teal",
   "url": "https://github.com/euclidianAce/tree-sitter-teal",
-  "semver": false
+  "semver": false,
+  "parser_version": "05d276e737055e6f77a21335b7573c9d3c091e2f",
+  "lang": "teal"
 }
